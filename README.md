@@ -1,11 +1,11 @@
-## Welcome
+# Welcome
 
 
-# Currently working on
+## Currently working on
 - 
 
-# Future ideas
+## Future ideas
 - 
 
-# Languages
+## Languages
 - 
