@@ -8,19 +8,22 @@ I'm one of the lucky few to discover my career passion at an early age. Ever sin
   - Adding more projects to the project list
   - Working to get an active domain running
 - Experimenting with Chrome extensions
+- 3 Card Poker game in Java for Software Design class
 
 ## Future ideas
+- More practical software in Java
 - More small-scale websites
   - Simple website to bookmark favorite websites
-- Functional browser extensions
-  - Quick text editor
+- More browser extensions
 - Look into creating video game mods
 
-## Languages
+## Programming Skills
 - Full Stack Web Development
   - Frontend: HTML, CSS, JavaScript, jQuery
-  - Backend: PHP, SQL
-- Java
+  - Backend: PHP, SQL, AJAX
+- Software Design
+  - Java
+  - UI/UX Design
 - Python
 - C/C++
 - F#
